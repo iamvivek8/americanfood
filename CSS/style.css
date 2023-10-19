@@ -13,7 +13,7 @@
 
 .navbar-main {
     display: flex;
-    border: 2px solid black;
+    /* border: 2px solid black; */
     align-items: center;
     padding: 3px;
     justify-content: space-around;
@@ -22,7 +22,7 @@
 
 .navbar-input {
     width: 283px;
-    border: 2px solid black;
+    /* border: 2px solid black; */
     border-bottom: 1px solid #ffffff;
     font-size: 18px;
     font-weight: 400;
@@ -123,7 +123,7 @@ hr {
 .header-back-main {
     width: 42%;
     margin-left: 50px;
-    border: 2px solid black;
+    /* border: 2px solid black; */
 }
 
 .btn-1 {
@@ -141,11 +141,11 @@ hr {
 
 .about {
     margin: 20px;
-    border: 2px solid black;
+    /* border: 2px solid black; */
 }
 
 .about-us-top {
-    border: 2px solid black;
+    /* border: 2px solid black; */
     width: 40%;
     height: auto;
     margin: 50px auto;
@@ -181,7 +181,7 @@ hr {
 .about-medicine {
     width: 90%;
     margin: auto;
-    border: 2px solid black;
+    /* border: 2px solid black; */
     display: flex;
 
 }
@@ -189,7 +189,7 @@ hr {
 {
     width: 50%;
     margin-right: 4rem;
-    border: 2px solid black;
+    /* border: 2px solid black; */
 }
 .medicine h3
 {font-size: 54px;
@@ -209,7 +209,7 @@ padding: 1rem;
 {
     width: 50%;
     margin: auto;
-    border: 2px solid black;
+    /* border: 2px solid black; */
 }
 .about-video img
 {
@@ -237,12 +237,12 @@ font-family: "Roboto";
     /* max-width: 140rem; */
     width: 80%;
     gap: 9rem;
-    border: 2px solid black;
+    /* border: 2px solid black; */
 }
 
 .service-colunm {
     display: flex;
-    border: 2px solid black;
+    /* border: 2px solid black; */
     flex-direction: column;
     /* justify-content: center; */
     /* align-items: center; */
@@ -290,7 +290,7 @@ font-family: "Roboto";
 
 .discount-container {
     width: 43%;
-    border: 2px solid black;
+    /* border: 2px solid black; */
     margin-left: 80px;
     padding: 15px 0px 16px 10px;
 }
@@ -345,7 +345,7 @@ font-family: "Roboto";
 
 .pricing-main {
     width: 80%;
-    border: 2px solid black;
+    /* border: 2px solid black; */
     margin: 80px auto;
 }
 
@@ -355,14 +355,10 @@ font-family: "Roboto";
     text-align: center;
     background-color: #f1f1f1;
 
-    border: 2px solid black;
+    /* border: 2px solid black; */
 }
 
-.pricing-grid {
-    /* width: 80%; */
-    border: 2px solid black;
 
-}
 
 .pricing {
     display: grid;
@@ -437,7 +433,7 @@ font-family: "Roboto";
     margin-left: 46rem;
     align-items: end; */
     width: 43%;
-    border: 2px solid black;
+    /* border: 2px solid black; */
     display: flex;
     flex-direction: column;
     align-items: flex-end;
@@ -498,7 +494,7 @@ font-family: "Roboto";
 
 .blog-container {
     width: 80%;
-    border: 2px solid black;
+    /* border: 2px solid black; */
     display: grid;
     margin: auto;
     /* gap: 3  rem; */
@@ -511,7 +507,7 @@ font-family: "Roboto";
     height: 350x;
     gap: 2rem;
     background-color: #f1f1f1;
-    border: 2px solid black;
+    /* border: 2px solid black; */
 }
 
 .blog-box2 {
@@ -520,7 +516,7 @@ font-family: "Roboto";
     height: 350x;
     gap: 2rem;
     background-color: #f1f1f1;
-    border: 2px solid black;
+    /* border: 2px solid black; */
 }
 
 .blog-box img {
